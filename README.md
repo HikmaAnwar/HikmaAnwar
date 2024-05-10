@@ -26,5 +26,5 @@ Versatile web developer and adept UI/UX designer currently navigating the realms
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tinsaye-simeneh&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tinsaye-simeneh&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=HikmaAnwar&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
