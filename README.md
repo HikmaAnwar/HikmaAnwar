@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Hikma Anwar </h1>
-<h3 align="center">Software Engineer | Web Developer | UI/UX Designer </h3>
+<h3 align="center">Software Engineer | Web Developer  </h3>
 
 ## 🌐 About me:
 <p>
