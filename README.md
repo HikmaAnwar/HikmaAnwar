@@ -1,12 +1,8 @@
-<h1 align="center">Hey 👋, I'm Hikma Anwar </h1>
-<h3 align="center">Software Engineer | Web Developer  </h3>
+<h1 align="center">Hi there 👋, I'm Hikma Anwar </h1>
+<h3 align="center">
+"Tech enthusiast and digital experience crafter."  </h3>
 
-## 🌐 About me:
-<p>
-  
-As a dedicated learner at Addis Ababa Science and Technology University, and aspiring software engineer, I'm immersing myself in the dynamic world of software engineering with a focus on web development and UI/UX design. While I'm still unfolding my full potential, I'm enthusiastic about leveraging my education and rapid learning abilities to craft innovative and user-centric digital experiences. My journey is marked by a commitment to continuous growth and exploration, fueled by a passion for technology and design. Follow along on my quest to unlock new skills and make meaningful contributions on my GitHub profile.
 
-</p>
 
 - 👨‍💻 All of my Coding projects are available at My [Github Profile](https://github.com/HikmaAnwar)<br>
 
