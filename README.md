@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Hikma Anwar </h1>
 <h3 align="center">
-"Tech enthusiast and digital experience crafter."  </h3>
+A Tech enthusiast and digital experience crafter  </h3>
 
 
 
