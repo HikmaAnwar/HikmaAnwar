@@ -12,7 +12,7 @@ A Tech enthusiast and digital experience crafter  </h3>
 
 ## 🌐 Social Presence:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/HikmaTsegaye)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/HikmaTsegaye](https://www.linkedin.com/in/hikma-tsegaye/))
 [![Telegram](https://img.shields.io/badge/Telegram-%230077B5.svg?logo=telegram&logoColor=white)](https://t.me/Itgalpatra) [![Instagram](https://img.shields.io/badge/Instagram-%230077B5.svg?logo=instagram&logoColor=white)](https://www.instagram.com/boptii/)
 
 # 💻 Tech-Stack:
